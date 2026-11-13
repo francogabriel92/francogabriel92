@@ -1,10 +1,20 @@
-# Hi 👋, I'm Franco
-## A Creative Fullstack Developer from Buenos Aires, Argentina. 🇦🇷
+# Hi, I'm Franco Sánchez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francogabriel92&label=Profile%20views&color=0e75b6&style=flat" alt="francogabriel92" /> </p>
+Full Stack AI Engineer in Buenos Aires, Argentina. I take AI agents to production, from pipeline to UI.
 
-## 🧑🏻‍💻 Something about me
+At [Nivii](https://nivii.ai), a generative AI analytics startup, I own the React frontend and work on the LLM agent pipeline. I re-engineered that pipeline in Python (LangGraph, Langfuse) for ~30% faster responses at ~40% lower cost. Before that I spent four years on frontend engineering, and I've freelanced as a full stack developer since 2020.
 
-My name is Franco, I'm a self‑taught Full‑Stack developer based on Buenos Aires, Argentina. I started programming 4 years ago and since then I keep learning new things and improving my skills every day. I love to build creative, interactive and eye‑catching websites so that the user gets a unique and unforgettable experience based on current trends and technologies.
+## Open source
 
-As a person with communication and social skills I have a natural predisposition to teamwork and I always try to give my best so that the team can achieve its goals on time. In my free time I like to play guitar, hang out with my friends, meet new people, play with my cat, work on personal projects and play video games.
+- [react-hook-form-storage](https://github.com/francogabriel92/react-hook-form-storage): persists React Hook Form state to localStorage, sessionStorage or any custom async storage.
+
+## Stack
+
+- **AI:** LLMs · AI agents · LangGraph · LangChain · Langfuse · RAG · Text-to-SQL
+- **Frontend:** React · Next.js · TypeScript · Tailwind CSS
+- **Backend:** Python · FastAPI · Node.js · NestJS · Express · PostgreSQL · MongoDB · Supabase
+- **DevOps & tools:** Docker · Kubernetes · AWS · Vercel · GitHub Actions
+
+## Find me
+
+[Portfolio](https://fgs-dev.com.ar) · [LinkedIn](https://www.linkedin.com/in/francogabriel92/) · [X](https://x.com/francogsdev) · [hello@fgs-dev.com.ar](mailto:hello@fgs-dev.com.ar)
